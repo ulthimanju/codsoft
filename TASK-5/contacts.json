@@ -1,0 +1,17 @@
+{
+    "manju": {
+        "phone": "1234567890",
+        "email": "qwert@gmail.com",
+        "address": "qwerty"
+    },
+    "poiuytrewq": {
+        "phone": "1234567890",
+        "email": "qwertyu@qwer",
+        "address": "qwertyuiop"
+    },
+    "asdfghjk": {
+        "phone": "1234567890",
+        "email": "qwertyuiop",
+        "address": "qweru"
+    }
+}
